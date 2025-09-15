@@ -1,0 +1,25 @@
+.body {
+    min-width: fit-content;
+    width: 100%;
+    flex-direction: column;
+}
+.body .main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.body .link1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.body .link2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}

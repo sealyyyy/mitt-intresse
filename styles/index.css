@@ -1,0 +1,13 @@
+.body {
+    width: 100%;
+}
+.body h1 {
+    text-align: center;
+}
+.body p {
+    width: 250px;
+    color: hsl(0, 0%, 18%);
+}
+.body img {
+    width: 300px;
+}
