@@ -7,6 +7,6 @@ x - skapa ett repo med namnet "Mitt-intresse"
 		- Om, mer, kontakt (exempel)
 	- bilder
 
-- publicera hemsidan med hjälp av Github pages
-- validera hemsidan
-- lämna in allt som krävs på classroom
+x - publicera hemsidan med hjälp av Github pages
+x - validera hemsidan
+x - lämna in allt som krävs på classroom
